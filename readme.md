@@ -15,4 +15,4 @@
 ![options](options.png)
 4. lưu key
 ![set_key](set_key.png)
-5. làm theo [Cách bình thường được cung cấp bởi valve](#Cách bình thường được cung cấp bởi valve)
+5. làm theo [Cách bình thường được cung cấp bởi valve](#cách-bình-thường-được-cung-cấp-bởi-valve)
