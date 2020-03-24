@@ -14,6 +14,8 @@
 nếu nó hỏi domain thì để localhost vào
 3. vào option  
 ![options](options.png)
-4. lưu key  
+4. vào extension options
+![ext_options.png](ext_options.png)
+5. lưu key  
 ![set_key](set_key.png)
-5. làm theo [Cách bình thường được cung cấp bởi valve](#cách-bình-thường-được-cung-cấp-bởi-valve)
+6. làm theo [Cách bình thường được cung cấp bởi valve](#cách-bình-thường-được-cung-cấp-bởi-valve)
